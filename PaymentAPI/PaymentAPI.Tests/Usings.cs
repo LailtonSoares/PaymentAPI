@@ -1,0 +1,10 @@
+global using NUnit.Framework;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Mvc;
+global using PaymentAPI.Data;
+global using PaymentAPI.Services;
+global using PaymentAPI.Helpers;
+global using PaymentAPI.Controllers;
+global using PaymentAPI.Models.Base;
+global using PaymentAPI.Models.Record;
+global using PaymentAPI.Models.Request;
